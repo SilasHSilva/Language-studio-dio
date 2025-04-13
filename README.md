@@ -38,7 +38,7 @@ Após a análise, o Azure retornou os seguintes insights:
 
 > Abaixo esta o arquivo JSON que mostra como foi feita a análise no Language Studio:
 
-'''
+```
 {
     "documents": [
         {
@@ -240,7 +240,9 @@ Após a análise, o Azure retornou os seguintes insights:
     "errors": [],
     "modelVersion": "2025-01-01"
 }
-'''
+
+```
+
 
 ---
 
